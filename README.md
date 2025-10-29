@@ -1,1 +1,1 @@
-# bookstore-user-service
+Microservice for managing users in the BookStore system
